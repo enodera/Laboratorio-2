@@ -1,2 +1,2 @@
 # Laboratorio-2
- Para los ejercicios 4 y 5.
+ Se han puesto los archivos bin2dec.py y bin2hex.py
